@@ -1,3 +1,4 @@
+import Glibc
 print("Добро пожаловать в консольный калькулятор S W I F T !")
 
 var history: [String] = []
